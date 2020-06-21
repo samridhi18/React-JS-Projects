@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Timer from './App';
+import Timer from './timer';
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import * as serviceWorker from './serviceWorker';
